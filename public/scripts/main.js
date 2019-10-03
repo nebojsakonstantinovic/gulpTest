@@ -1,4 +1,4 @@
-var name = 'Max';
+var name = 'Jen';
 var surname = 'Mad';
 
-document.write('Hello' + surname + "" + name + '!');
+document.write('Hello ' + surname + " " + name + '!');

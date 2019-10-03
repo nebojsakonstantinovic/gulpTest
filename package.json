@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp-uglify": "^3.0.2",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
     "static-server": "^2.0.0"

@@ -1,1 +1,1 @@
-var name="Max",surname="Mad";document.write("Hello"+surname+name+"!");
+var name="Jen",surname="Mad";document.write("Hello "+surname+" "+name+"!");
