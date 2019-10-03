@@ -1,0 +1,1 @@
+var name="Max",surname="Mad";document.write("Hello"+surname+name+"!");
