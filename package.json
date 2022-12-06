@@ -21,7 +21,7 @@
     "gulp-handlebars": "^5.0.2",
     "gulp-imagemin": "^3.0.1",
     "gulp-less": "^3.0.5",
-    "gulp-livereload": "^3.8.1",
+    "gulp-livereload": "^4.0.2",
     "gulp-minify-css": "^1.2.2",
     "gulp-plumber": "^1.0.1",
     "gulp-sass": "^4.0.2",
